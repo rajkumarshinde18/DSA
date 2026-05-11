@@ -1,0 +1,36 @@
+body {
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Sidebar */
+.sidebar {
+  height: 100vh;
+  background-color: #212529;
+  color: white;
+  padding-top: 20px;
+}
+
+/* Sidebar Links */
+.sidebar a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 12px;
+}
+
+/* Hover Effect */
+.sidebar a:hover {
+  background-color: #343a40;
+  border-radius: 5px;
+}
+
+/* Cards */
+.card-box {
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
