@@ -1,0 +1,188 @@
+# Practical 2(a): GitHub & Git Commands
+
+## Commands Used with Their Purpose
+
+| Command                                  | Use                               |
+| ---------------------------------------- | --------------------------------- |
+| `git --version`                          | Check Git installation            |
+| `git config --global user.name "Name"`   | Set Git username                  |
+| `git config --global user.email "email"` | Set Git email                     |
+| `git config --list`                      | Show Git configuration            |
+| `mkdir DSA`                              | Create new folder                 |
+| `cd DSA`                                 | Open folder                       |
+| `git init`                               | Create local Git repository       |
+| `git status`                             | Check repository status           |
+| `notepad hello.txt`                      | Create text file                  |
+| `git add .`                              | Add all files to staging area     |
+| `git commit -m "First commit"`           | Save changes permanently          |
+| `git remote add origin URL`              | Connect local repo to GitHub      |
+| `git branch -M main`                     | Rename branch to main             |
+| `git push -u origin main`                | Upload code to GitHub             |
+| `git pull`                               | Download latest files from GitHub |
+| `git clone URL`                          | Copy repository from GitHub       |
+
+---
+
+# Complete Command Sequence
+
+```bash id="v1"
+git --version
+git config --global user.name "Rajkumar Shinde"
+git config --global user.email "rajkumardypcoe18@gmail.com"
+
+mkdir DSA
+cd DSA
+
+git init
+
+notepad hello.txt
+
+git status
+
+git add .
+
+git commit -m "First commit"
+
+git remote add origin https://github.com/rajkumarshinde18/DSA.git
+
+git branch -M main
+
+git push -u origin main
+```
+
+---
+
+# Viva Questions and Answers
+
+## What is Git?
+
+Git is a distributed version control system used to track code changes.
+
+---
+
+## What is GitHub?
+
+GitHub is an online platform used to host Git repositories.
+
+---
+
+## Difference between Git and GitHub?
+
+| Git           | GitHub         |
+| ------------- | -------------- |
+| Software tool | Cloud platform |
+| Works locally | Works online   |
+
+---
+
+## What is Version Control System?
+
+A system that tracks changes in files and code.
+
+---
+
+## What is Repository?
+
+A repository is a storage location for project files and versions.
+
+---
+
+## What is Local Repository?
+
+Repository stored on local computer.
+
+---
+
+## What is Remote Repository?
+
+Repository stored on GitHub server.
+
+---
+
+## What does `git init` do?
+
+Creates a new local Git repository.
+
+---
+
+## What does `git status` do?
+
+Shows file status and changes.
+
+---
+
+## What is Staging Area?
+
+Temporary area where files are prepared before commit.
+
+---
+
+## What does `git add .` do?
+
+Adds all files to staging area.
+
+---
+
+## What is Commit?
+
+Commit saves project changes permanently.
+
+---
+
+## What does `-m` mean in commit?
+
+It specifies commit message.
+
+---
+
+## What does `git push` do?
+
+Uploads local repository data to GitHub.
+
+---
+
+## What does `git pull` do?
+
+Downloads latest changes from GitHub.
+
+---
+
+## What does `git clone` do?
+
+Copies repository from GitHub to local computer.
+
+---
+
+## What is Branch in Git?
+
+A branch is a separate line of development.
+
+---
+
+## What is `origin` in Git?
+
+Default name of remote repository.
+
+---
+
+## Why do we configure username and email?
+
+To identify the author of commits.
+
+---
+
+## What is the default branch name?
+
+`main`
+
+---
+
+## What is Git Bash?
+
+Command line interface used to run Git commands on Windows.
+
+---
+
+## Why is Git used?
+
+For version control, backup, and team collaboration.
