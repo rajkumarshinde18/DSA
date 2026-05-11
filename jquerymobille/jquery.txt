@@ -1,0 +1,50 @@
+# Viva Questions and Answers
+
+## Practical: Create a Simple Mobile Website using jQuery Mobile
+
+| Question                                                    | Answer                                                                            |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| What is jQuery?                                             | jQuery is a JavaScript library used to simplify web development.                  |
+| What is jQuery Mobile?                                      | jQuery Mobile is a framework used to create mobile-friendly websites.             |
+| Why do we use jQuery Mobile?                                | To create responsive and touch-friendly mobile web applications.                  |
+| Which languages are used in this practical?                 | HTML, CSS, JavaScript, jQuery, and jQuery Mobile.                                 |
+| What is a responsive website?                               | A website that adjusts properly on different screen sizes.                        |
+| What is the use of `data-role` in jQuery Mobile?            | It defines mobile UI components like page, header, footer, button, etc.           |
+| What is `data-role="page"`?                                 | It defines a separate mobile page section.                                        |
+| What is `data-role="header"`?                               | It creates the top header section of the page.                                    |
+| What is `data-role="footer"`?                               | It creates the bottom footer section.                                             |
+| What is `data-role="navbar"`?                               | It creates a navigation menu bar.                                                 |
+| What is `data-role="button"`?                               | It creates a mobile-styled button.                                                |
+| What is the use of jQuery?                                  | It handles events, animations, and DOM manipulation easily.                       |
+| What is DOM?                                                | DOM stands for Document Object Model used to access HTML elements.                |
+| What is the use of CSS in this practical?                   | CSS is used for styling and design.                                               |
+| What is the use of JavaScript in this project?              | JavaScript adds functionality and interactivity.                                  |
+| What is the use of `$(document).ready()`?                   | It runs code after the webpage loads completely.                                  |
+| What is event handling in jQuery?                           | It handles user actions like click, submit, hover, etc.                           |
+| What is the use of `event.preventDefault()`?                | It stops the default form submission behavior.                                    |
+| What is a mobile website?                                   | A website optimized for smartphones and tablets.                                  |
+| Difference between website and mobile website?              | Mobile websites are responsive and touch-friendly.                                |
+| What is a framework?                                        | A framework is a pre-written collection of code for faster development.           |
+| What is a library?                                          | A library provides reusable functions and methods.                                |
+| Difference between jQuery and jQuery Mobile?                | jQuery is a JS library, while jQuery Mobile is a mobile UI framework.             |
+| What is CDN?                                                | CDN stands for Content Delivery Network used to load online libraries.            |
+| Why are CDN links used in this practical?                   | To load jQuery and jQuery Mobile files online.                                    |
+| Can jQuery Mobile work offline?                             | Yes, by downloading and using local files.                                        |
+| What is the use of forms in this website?                   | To collect user information like name and email.                                  |
+| What is a textarea?                                         | A textarea is used for multi-line text input.                                     |
+| What is the purpose of navigation bar?                      | To move between different pages easily.                                           |
+| What are the advantages of jQuery Mobile?                   | Easy UI design, responsive layout, and touch support.                             |
+| What are the limitations of jQuery Mobile?                  | Slower performance compared to modern frameworks.                                 |
+| Is jQuery Mobile frontend or backend?                       | It is a frontend framework.                                                       |
+| What is Bootstrap?                                          | Bootstrap is another framework for responsive web design.                         |
+| Difference between Bootstrap and jQuery Mobile?             | Bootstrap is general responsive framework, jQuery Mobile is focused on mobile UI. |
+| What is hyperlinking between pages?                         | Connecting pages using links.                                                     |
+| What is the extension of JavaScript file?                   | `.js`                                                                             |
+| What is the extension of CSS file?                          | `.css`                                                                            |
+| What is the extension of HTML file?                         | `.html`                                                                           |
+| What is the role of footer in webpage?                      | It displays bottom information of the page.                                       |
+| What is touch-friendly UI?                                  | UI designed for mobile touch interactions.                                        |
+| Can multiple pages exist in one HTML file in jQuery Mobile? | Yes.                                                                              |
+| What is the use of ID in HTML?                              | It uniquely identifies elements.                                                  |
+| What is form validation?                                    | Checking user input before submission.                                            |
+| What is web development?                                    | The process of creating websites and web applications.                            |

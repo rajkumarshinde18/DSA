@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #333;
+}
+
+#result {
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+}
