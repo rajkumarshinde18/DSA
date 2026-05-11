@@ -1,0 +1,104 @@
+## Viva Questions and Answers
+
+### 1. What is HTML?
+
+HTML is used to create the structure of a web page.
+
+### 2. What is CSS?
+
+CSS is used to style and design web pages.
+
+### 3. What is Bootstrap?
+
+Bootstrap is a CSS framework used to create responsive websites quickly.
+
+### 4. What is a responsive web page?
+
+A responsive page adjusts automatically to different screen sizes.
+
+### 5. What is a dashboard?
+
+A dashboard displays important data and statistics in one place.
+
+### 6. What is a sidebar?
+
+A sidebar is a side menu used for navigation.
+
+### 7. What is a card in Bootstrap?
+
+A card is a container used to display information neatly.
+
+### 8. What is the use of Bootstrap grid system?
+
+It helps create responsive rows and columns.
+
+### 9. What is `container-fluid`?
+
+It creates a full-width layout.
+
+### 10. Difference between `container` and `container-fluid`?
+
+* `container` → fixed width
+* `container-fluid` → full width
+
+### 11. What is the use of `row` in Bootstrap?
+
+It is used to create horizontal sections.
+
+### 12. What is the use of `col-md-3`?
+
+It creates 4 equal columns on medium screens.
+
+### 13. Why do we use Bootstrap?
+
+To reduce coding effort and make responsive design easy.
+
+### 14. What is viewport in HTML?
+
+Viewport helps webpages adjust to mobile screens.
+
+### 15. What is the use of `class` attribute?
+
+It is used to apply CSS styles to elements.
+
+### 16. What is external CSS?
+
+CSS written in a separate `.css` file.
+
+### 17. Which tag is used to link CSS file?
+
+`<link>` tag.
+
+### 18. What is the use of `href` in link tag?
+
+It specifies the path of the CSS file.
+
+### 19. What is padding?
+
+Padding is space inside an element.
+
+### 20. What is margin?
+
+Margin is space outside an element.
+
+### 21. What is hover effect?
+
+It changes element style when mouse pointer moves over it.
+
+### 22. What is the use of `height: 100vh`?
+
+It makes the element full screen height.
+
+### 23. What is CDN in Bootstrap?
+
+CDN provides Bootstrap files through internet links.
+
+### 24. Advantages of Bootstrap?
+
+* Responsive design
+* Easy to use
+* Faster development
+
+### 25. What are the technologies used in this practical?
+
+HTML, CSS, and Bootstrap.
